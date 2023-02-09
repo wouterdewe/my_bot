@@ -11,7 +11,7 @@ Panels:
         - /RobotModel1
         - /LaserScan1
       Splitter Ratio: 0.5
-    Tree Height: 759
+    Tree Height: 759 
   - Class: rviz_common/Selection
     Name: Selection
   - Class: rviz_common/Tool Properties
